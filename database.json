@@ -1,0 +1,12 @@
+{
+  "local": {
+    "driver": "sqlite3",
+    "filename": "local.db"
+  },
+  "dev": {
+    "driver": "mysql",
+    "database": "db_migrate_test",
+    "user": "root",
+    "password": "root"
+  }
+}

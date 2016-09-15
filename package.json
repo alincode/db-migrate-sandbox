@@ -1,0 +1,26 @@
+{
+  "name": "node-db-migrate-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "db-migrate": "^0.10.0-beta.16",
+    "db-migrate-mysql": "^1.1.7",
+    "db-migrate-sqlite3": "^0.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alincode/node-db-migrate-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alincode/node-db-migrate-sandbox/issues"
+  },
+  "homepage": "https://github.com/alincode/node-db-migrate-sandbox#readme"
+}
